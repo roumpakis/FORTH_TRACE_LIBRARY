@@ -47,7 +47,7 @@ _R (R <<M)_ representative features for each segment. Currently 4 types of FSA a
 The FORTH-TRACE library is designed to support any given HAR dataset.
 Our implementation is tested using two HAR datasets.
 * HAPT dataset -- single location - multiple modalities (Available in http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)
-* FORTH-TRACE dataset -- multiple locations - multiple modalities (Available at https://github.com/karayan/FORTH_TRACE_DATASET)
+* FORTH-TRACE dataset -- multiple locations - multiple modalities (Available at https://github.com/spl-icsforth/FORTH_TRACE_DATASET)
 
 ## Useful Methods <a name="useful"></a>
 Besides the methods used that implement the Machine Learning pipeline, this project contains methods to write the feature matrixes and the experiment statistics into .csv for post-processing evaluation purposes.
